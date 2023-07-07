@@ -1,1 +1,1 @@
-# python_stepik_course
+# Stepik Поколение Python курс для продвинутых
