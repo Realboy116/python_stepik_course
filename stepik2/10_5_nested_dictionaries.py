@@ -100,10 +100,8 @@ students , где указан рост больше 167 см, а вес мен�
 # result = [{a:{c: b}} for a, b, c in zip(student_ids, student_grades, student_names)]
 # print(result)
 
-s = input().split()
-res ={k: }
-for num in s:
-    res[num] = res.get(num, 0) +1
-    print(res[keys])
-    
-
+# s = input().split()
+# res ={k: }
+# for num in s:
+#     res[num] = res.get(num, 0) +1
+#     print(res[keys])
