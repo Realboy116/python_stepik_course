@@ -103,3 +103,10 @@
 # def ad(x):                  это функция для примера к заданию не относится 
 #     return x + 3
 # print(func_apply(ad, n))
+
+# ls = [1, 2, 3, 4]
+# def n(x):
+#     return x + 7
+
+# n_ls = list(map(n, ls))
+# print(n_ls)
